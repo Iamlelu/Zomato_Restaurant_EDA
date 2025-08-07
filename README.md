@@ -35,5 +35,5 @@ This project performs **Exploratory Data Analysis (EDA)** on Zomato's restaurant
 ## Future 
 - Building more complex projects and consistent learning to find insights and creating value in data science and tech
 
-## You can the dataset from kaggle.
+## You can the dataset from kaggle. https://www.kaggle.com/datasets/vora1011/zomato-bangalore-restaurants-2022
 

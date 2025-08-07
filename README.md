@@ -33,7 +33,5 @@ This project performs **Exploratory Data Analysis (EDA)** on Zomato's restaurant
 2. Understood the working of kaggle and its datasets
 
 ## Future 
-- Building more complex projects and consistent learning to find insights and creating value
+- Building more complex projects and consistent learning to find insights and creating value in data science and tech
 
-## Project Link
-📘 [Jupyter Notebook](./zomato_eda.ipynb)

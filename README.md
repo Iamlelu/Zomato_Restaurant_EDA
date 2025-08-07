@@ -35,3 +35,5 @@ This project performs **Exploratory Data Analysis (EDA)** on Zomato's restaurant
 ## Future 
 - Building more complex projects and consistent learning to find insights and creating value in data science and tech
 
+## You can the dataset from kaggle.
+

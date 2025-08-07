@@ -1,8 +1,7 @@
 # Zomato_Restaurant_EDA
-Showcasing EDA on Zomato Data in bangalore using python , pandas and plots
-
 ##  Objective
 This project performs **Exploratory Data Analysis (EDA)** on Zomato's restaurant data for **Bangalore**, aiming to uncover insights and applying python and other tools for EDA
+pandas and plots
 
 ## Dataset
 - **Source**: Kaggle / Public dataset

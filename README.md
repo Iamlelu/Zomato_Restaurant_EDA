@@ -10,7 +10,7 @@ This project performs **Exploratory Data Analysis (EDA)** on Zomato's restaurant
 - **Rows**: 9000+ restaurants (filtered to Bangalore only)
 - **Columns**: Restaurant name, location, cuisine, average cost, rating, etc.
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 - **Python**
 - **Pandas** – Data manipulation
 - **Matplotlib** & **Seaborn** – Data visualization
